@@ -1,0 +1,6 @@
+#define CLANG_VERSION 3.9.0
+#define CLANG_VERSION_MAJOR 3
+#define CLANG_VERSION_MINOR 9
+#if 1
+#define CLANG_VERSION_PATCHLEVEL 0
+#endif
